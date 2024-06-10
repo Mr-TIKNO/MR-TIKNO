@@ -1,4 +1,4 @@
 import os
-os.system("import")
+os.system("import p64")
 os.system('xdg-open https://chat.whatsapp.com/Lls2lCoP7feDWqCmJ62rJU')
-import p64
+import TIKNO
